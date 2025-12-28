@@ -724,7 +724,7 @@ from datetime import datetime
 from playwright.async_api import async_playwright, TimeoutError
 
 URLS = [
-    "https://aznudelive.com/Hahaha_ha2",
+    "https://azlive.com/Hahaha_ha2",
     # thêm web khác ở đây
 ]
 
@@ -801,7 +801,7 @@ asyncio.run(main())
 
 * * *
 
-⚠️ LƯU Ý RIÊNG VỚI TRANG `aznudelive.com`
+⚠️ LƯU Ý RIÊNG VỚI TRANG `azlive.com`
 =========================================
 
 *   Trang này load JS + video **rất chậm**
@@ -899,7 +899,7 @@ from datetime import datetime
 from playwright.async_api import async_playwright
 
 URLS = [
-    "https://aznudelive.com/Hahaha_ha2",
+    "https://azlive.com/Hahaha_ha2",
 ]
 
 PROFILE_DIR = "browser_profile"   # QUAN TRỌNG
@@ -1066,7 +1066,7 @@ from datetime import datetime
 from playwright.async_api import async_playwright, TimeoutError
 
 URLS = [
-    "https://aznudelive.com/Hahaha_ha2",
+    "https://azlive.com/Hahaha_ha2",
 ]
 
 PROFILE_DIR = "browser_profile"
@@ -1178,7 +1178,7 @@ main.py          ← Playwright đọc links.txt và chụp ảnh
 Ví dụ:
 
 ```txt
-https://aznudelive.com/Hahaha_ha2
+https://azlive.com/Hahaha_ha2
 https://example.com/live1
 https://example.com/live2
 ```
@@ -1503,7 +1503,7 @@ VIEWPORT_HEIGHT = 720
 
 # 🌐 Danh sách trang web live
 URLS = [
-    "https://aznudelive.com/Hahaha_ha2",
+    "https://azlive.com/Hahaha_ha2",
     # thêm / xóa link trực tiếp ở đây
 ]
 
@@ -2037,7 +2037,7 @@ VIEWPORT_HEIGHT = 720
 
 # 🌐 Danh sách trang web (chỉnh trực tiếp)
 URLS = [
-    "https://aznudelive.com/Hahaha_ha2",
+    "https://azlive.com/Hahaha_ha2",
     # thêm / xóa link tại đây
 ]
 
@@ -2422,7 +2422,7 @@ VIEWPORT_HEIGHT = 720
 
 # 🌐 Danh sách trang web (chỉnh trực tiếp)
 URLS = [
-    "https://aznudelive.com/Hahaha_ha2",
+    "https://azlive.com/Hahaha_ha2",
     # thêm / xóa link tại đây
 ]
 

@@ -9,10 +9,7 @@ VIEWPORT_HEIGHT = 720
 
 # 🌐 Danh sách trang web live
 URLS = [
-    "https://aznudelive.com/Embez-Damdang",
-    "https://aznudelive.com/AYW-21",
-    "https://aznudelive.com/_Dorry_",
-    "https://aznudelive.com/Nabiii6868",
+    "https://azlive.com/_Dorry_",
 ]
 
 # 📂 Thư mục lưu ảnh
